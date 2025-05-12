@@ -6,7 +6,7 @@ from io import StringIO
 
 # Configure page
 st.set_page_config(
-    page_title="Customer Priority Classification",
+    page_title="CredSight",
     page_icon="🏦",
     layout="wide",
     initial_sidebar_state="expanded"
