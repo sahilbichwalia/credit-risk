@@ -181,7 +181,7 @@ def display_feature_importance():
 
 # Main app
 def main():
-    st.title("🏦 Customer Priority Classification Model")
+    st.title("🏦 CredSight")
     st.markdown("Classify customers into priority segments (P1-P4) based on credit risk assessment.")
     
     # Sidebar
